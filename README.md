@@ -10,3 +10,5 @@ I made this for me, because I wanted to. Maybe other people will like it, maybe 
 
 I'm still working on getting all the bugs out though...
 
+NOTE: if you don't trust my exe, but you still want an exe, read through the code and use pyinstaller to compile it for yourself.
+
